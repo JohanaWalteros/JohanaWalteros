@@ -1,8 +1,8 @@
-# <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/> Bienvenid@ a mi GitHub
-
-<p align="center">
-  <img src="Banner.png" alt="Banner de Condor Coders">
+<p align="center"><img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/><br>
+  <strong>Bienvenid@ a mi GitHub</strong>
 </p>
+
+<p><img src="Banner.png" alt="Banner de Condor Coders"></p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/johana_walteros/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wendy-johana-walteros-alfonso)
