@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="color:white; font-size:50px;">¡Hola👋 Bienvenid@ a mi GitHub!</strong>
+  <strong style="color:white; font-size:300px;">¡Hola👋 Bienvenid@ a mi GitHub!</strong>
 </p>
 
 <p align="center"><img src="Banner.png" alt="Banner de Condor Coders"></p>
