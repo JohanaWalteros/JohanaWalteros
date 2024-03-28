@@ -1,5 +1,5 @@
-<p align="center"><img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/><br>
-  <strong>Bienvenid@ a mi GitHub</strong>
+<p align="center">
+  <strong style="color:waith; font-size:29px">¡Hola👋 Bienvenid@ a mi GitHub!</strong>
 </p>
 
 <p><img src="Banner.png" alt="Banner de Condor Coders"></p>
@@ -7,6 +7,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/johana_walteros/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wendy-johana-walteros-alfonso)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dgmail%26oq%3Dgmail%26gs_lcrp%3DEgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIKCAEQABixAxiABDIKCAIQABixAxiABDINCAMQABiDARixAxiABDIHCAQQABiABDIHCAUQABiABDINCAYQABiDARixAxiABDIGCAcQRRg90gEIMTM5MWowajeoAgCwAgA%26sourceid%3Dchrome%26ie%3DUTF-8&ec=GAZAAQ&hl=es&passive=true&ifkv=ARZ0qKKm6jwz03cMTTR0xrIC5yOLVYNwHxHqDp5Fx6VGid5T9UvIttP16ge3Mhbkq9Ki20edDOjo&theme=mn&ddm=0&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/>
+</p>
 
 Estoy explorando varios lenguajes de programación, emocionada por sumergirme en el mundo del desarrollo de software. Aquí estoy para aprender, compartir experiencias, enfrentar desafíos y, siempre que pueda, ofrecer ayuda.
 
