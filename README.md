@@ -1,8 +1,8 @@
 <p align="center">
-  <strong style="color:waith; font-size:29px">¡Hola👋 Bienvenid@ a mi GitHub!</strong>
+  <strong style="color:waith; font-size:100px">¡Hola👋 Bienvenid@ a mi GitHub!</strong>
 </p>
 
-<p><img src="Banner.png" alt="Banner de Condor Coders"></p>
+<p align="center"><img src="Banner.png" alt="Banner de Condor Coders"></p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/johana_walteros/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wendy-johana-walteros-alfonso)
