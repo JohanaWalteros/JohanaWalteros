@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="color:waith; font-size:100px">¡Hola👋 Bienvenid@ a mi GitHub!</strong>
+  <strong style="color:white; font-size:27px;">¡Hola👋 Bienvenid@ a mi GitHub!</strong>
 </p>
 
 <p align="center"><img src="Banner.png" alt="Banner de Condor Coders"></p>
@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/>
 </p>
 
-Estoy explorando varios lenguajes de programación, emocionada por sumergirme en el mundo del desarrollo de software. Aquí estoy para aprender, compartir experiencias, enfrentar desafíos y, siempre que pueda, ofrecer ayuda.
+<p align="justify"> Estoy explorando varios lenguajes de programación, emocionada por sumergirme en el mundo del desarrollo de software. Aquí estoy para aprender, compartir experiencias, enfrentar desafíos y, siempre que pueda, ofrecer ayuda.</p>
 
 ## Tecnologías 💻
 <p align="center">
